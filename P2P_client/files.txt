@@ -1,0 +1,2 @@
+C:\Users\Dylan\Documents\hgignore_global.txt
+C:\Users\Dylan\Documents\gitignore_global.txt

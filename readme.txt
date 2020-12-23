@@ -1,0 +1,1 @@
+All projects can be opened in netbeans or directly ran through their respective .jar files in the dist folder
